@@ -26,7 +26,7 @@ I used **Microsoft Excel** for data cleaning, analysis, and dashboard creation.
 ---
 
 ## Files Included
-- DSA Data analysis Capstone Project – Question  
+- DSA Data analysis Capstone Project – Question  https://github.com/Benedicta2003/Amazon-product-review-analysis/blob/main/DSA%20Data%20Analysis%20Capstone%20Project.pdf
 - `Amazon_Dashboard.xlsx` – Dashboard with KPIs and charts  https://github.com/Benedicta2003/Amazon-product-review-analysis/blob/main/AmazonDashboard.xlsm
 
 ---
